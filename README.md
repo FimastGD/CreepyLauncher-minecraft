@@ -1,5 +1,7 @@
 # CreepyLauncher-minecraft
 Minecraft C++ launcher with creepy versions
+## Latest release
+pre-1.3_01
 # How to install
 Download latest versions at Releases, run .exe and wait for install
 # Dependencies
