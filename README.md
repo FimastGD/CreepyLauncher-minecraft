@@ -5,7 +5,7 @@ Minecraft C++ launcher with creepy versions
 # How to install
 Download latest versions at Releases, run .exe and wait for install
 # Dependencies
-You must install JDK
+You must install <font color="orange">Java 8</font>
 
 
 <img src="icon.ico" width="100px">
