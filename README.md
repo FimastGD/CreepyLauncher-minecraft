@@ -1,5 +1,5 @@
 # IMPORTANT WARNING
-**This launcher has stopped support since 04/27/2024. This project has been frozen and is no longer being developed. __THE NEW CREEPY PROJECT__: [https://github.com/FimastGD/CreepyProject-minecraft/edit/main/README.md](https://github.com/FimastGD/CreepyProject-minecraft/edit/main/README.md)**
+**This launcher has stopped support since 04/27/2024. This project has been frozen and is no longer being developed. __THE NEW CREEPY PROJECT__: [https://github.com/FimastGD/CreepyProject-minecraft/edit/main/README.md](https://github.com/FimastGD/CreepyProject-minecraft/)**
 
 # CreepyLauncher-minecraft
 Minecraft C++ launcher with creepy versions
